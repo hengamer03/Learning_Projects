@@ -1,8 +1,7 @@
-# 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
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
 prompt_input = input("type in something \n")
 
