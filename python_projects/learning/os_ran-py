@@ -1,0 +1,7 @@
+import os
+
+
+if os.name == "posix":
+    print("this is a linux server")
+else:
+    print("youre not using Linux!?!?!?!")
